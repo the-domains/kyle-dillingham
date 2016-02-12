@@ -1,13 +1,39 @@
+name: Kyle Dillingham
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.4390681
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.98527
-  lightness: 0.3824626
-  brandStrength: 0.1446075
   brandColors:
     - '#060606'
     - '#F2F2F2'
     - '#5C5C5C'
     - '#9A9A9A'
+  brandStrength: 0.375
+  lightness: 0.3824626
+  saturation: 0.5
   rhythmicContrast: 0.09682391
-typography_spectrum: 0.4390681
-name: Kyle Dillingham
+purpose: []
