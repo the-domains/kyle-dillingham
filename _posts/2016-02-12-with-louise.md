@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:2806da87-7f6d-465f-a95c-75fc45867841'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-12T17:58:26.215Z'
+dateModified: '2016-02-12T05:39:11.977Z'
 author: []
-datePublished: '2016-02-12T05:34:57.979Z'
-publisher:
-  domain: ''
-  name: ''
 title: With Louise
-dateModified: '2016-02-10T16:51:21.391Z'
 sourcePath: _posts/2016-02-12-with-louise.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: with-louise/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
