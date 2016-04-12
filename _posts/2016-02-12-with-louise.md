@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T17:58:26.215Z'
-dateModified: '2016-02-12T05:39:11.977Z'
+datePublished: '2016-04-12T18:02:21.647Z'
+dateModified: '2016-04-12T18:02:21.307Z'
 author: []
-title: With Louise
+title: ' '
 sourcePath: _posts/2016-02-12-with-louise.md
 published: true
 authors: []
@@ -23,5 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# With Louise
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88a9b420-532a-4e7d-a3ae-f3d3297691ca.png)
